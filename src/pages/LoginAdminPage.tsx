@@ -7,7 +7,6 @@ function LoginAdmin() {
       <>
       <div className="flex-col w-screen h-screen">
         <img src="../src/assets/AdminLP.png" alt="loginUserPage" className="flex w-screen h-screen object-cover"/>
-        <button className="absolute top-5 right-10 px-4 py-2 bg-pink-900 hover:bg-gray-400 text-white rounded-full">Explore More</button>
         <div className="container absolute top-48 left-20 w-96 h-96 bg-blue-200 rounded-lg p-8 shadow-md">
         <h2 className="text-2xl font-serif mb-6 text-center">LOGIN</h2>
       <input type="text" placeholder="Username" className="mb-4 px-4 py-2 border border-gray-300 rounded-full w-full text-center"/>
