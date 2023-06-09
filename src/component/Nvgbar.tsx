@@ -27,6 +27,12 @@ const Navbar: React.FC = () => {
             >
               LOST
             </a>
+            <a
+              href="#"
+              className="text-gray-700 hover:bg-[#D4A5A5] hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+            >
+              LOGOUT
+            </a>
           </div>
         </div>
       </div>

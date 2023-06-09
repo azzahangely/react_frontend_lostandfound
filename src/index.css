@@ -5,3 +5,12 @@
 body {
   background-color: grey;
 }
+
+/* Tailwind CSS */
+.scroll-bg {
+  transition: background-color 0.3s ease-in-out;
+}
+
+.scroll-bg.scroll {
+  background-color: #FFFFFF;
+}
